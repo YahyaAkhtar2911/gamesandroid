@@ -1,1 +1,10 @@
-
+{
+  "com.gametrickle.sniper.fire.shooting.games":"1.1",
+   
+   
+   
+   
+   "com.test.android.game":"1.2"
+  
+ 
+}
