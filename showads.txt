@@ -1,5 +1,5 @@
 {
-"com.gametrickle.sniper.fire.shooting.games":"1.0",
+"com.gametrickle.sniper.fire.shooting.games":"1.1",
    
    
    
