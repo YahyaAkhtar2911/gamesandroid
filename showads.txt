@@ -1,5 +1,6 @@
 {
 "com.gametrickle.sniper.fire.shooting.games":"1.1",
+"com.gametrickle.fps.paintball.shooting.battle":"1.0",
    
    
    
