@@ -2,6 +2,7 @@
 "com.gametrickle.sniper.fire.shooting.games":"1.1",
 "com.gametrickle.fps.paintball.shooting.battle":"1.1",
 "com.gametrickle.blue.rope.hero.crime.city.game":"1.1",
+"com.gametrickle.elite.commando.mission.war":"1.2",
    
    
    
