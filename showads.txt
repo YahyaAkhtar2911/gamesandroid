@@ -1,7 +1,7 @@
 {
 "com.gametrickle.sniper.fire.shooting.games":"1.1",
 "com.gametrickle.fps.paintball.shooting.battle":"1.1",
-"com.gametrickle.blue.rope.hero.crime.city.game":"1.4",
+"com.gametrickle.blue.rope.hero.crime.city.game":"1.5",
 "com.gametrickle.elite.commando.mission.war":"1.3",
 "com.gametrickle.flying.yellow.rope.hero.game.gangster.crime.city":"1.1",
 "com.gametrickle.flying.dragon.rope.hero.game.db.gangster.mafia.crime.city":"1.2",
