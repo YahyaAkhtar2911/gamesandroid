@@ -6,6 +6,7 @@
 "com.gametrickle.flying.dragon.rope.hero.game.db.gangster.mafia.crime.city":"1.2",
 "com.gametrickle.fps.zombie.shootergames.hunter.dead.kill.shooting.z.survival.last.apocalypse":"1.2",
 "com.gametrickle.flying.robot.spider.ropehero.spidergames.grandgangster.vegas.city.crime":"1.1",
+"com.gametrickle.blue.rope.hero.crime.city.game":"1.6",
    
    
    
