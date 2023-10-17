@@ -1,5 +1,5 @@
 {
-"com.gametrickle.sniper.fire.shooting.games":"1.1",
+"com.gametrickle.sniper.fire.shooting.games":"1.2",
 "com.gametrickle.fps.paintball.shooting.battle":"1.1",
 "com.gametrickle.elite.commando.mission.war":"1.5",
 "com.gametrickle.flying.yellow.rope.hero.game.gangster.crime.city":"1.3",
