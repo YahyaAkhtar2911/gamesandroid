@@ -5,7 +5,7 @@
 "com.gametrickle.flying.yellow.rope.hero.game.gangster.crime.city":"1.5",
 "com.gametrickle.flying.dragon.rope.hero.game.db.gangster.mafia.crime.city":"1.6",
 "com.gametrickle.fps.zombie.shootergames.hunter.dead.kill.shooting.z.survival.last.apocalypse":"1.3",
-"com.gametrickle.flying.robot.spider.ropehero.spidergames.grandgangster.vegas.city.crime":"1.2",
+"com.gametrickle.flying.robot.spider.ropehero.spidergames.grandgangster.vegas.city.crime":"1.3",
 "com.gametrickle.blue.rope.hero.crime.city.game":"1.8.4",
 "com.gametrickle.Toilet.Monster.skibidi.bop.dop.yes.camera.skibydy.war.escape":"1.1",
 
